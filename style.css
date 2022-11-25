@@ -61,7 +61,7 @@ nav ul li:hover {
 
 #getSpotifyFree::before {
   content: "";
-  background: linear-gradient(#5964de, #0d0a0e);
+  background: linear-gradient(#5964de, #9e2fc3);
   opacity: 0.4;
   border-radius: 50%;
   width: 250px;
@@ -162,7 +162,7 @@ nav ul li:hover {
 #itsFree {
   width: 100vw;
   height: 50vh;
-  background: linear-gradient(#5962c9, #0c090c);
+  background: linear-gradient(#5962c9, #b262b2);
   margin-top: 15px;
 }
 
